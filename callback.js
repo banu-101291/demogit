@@ -11,7 +11,7 @@ const purchase=(callback)=>{
     )
 }
 const callback=()=>{
-    alert("purchase done!!!")
+    alert("purchase completed!!!")
 }
 const coffee=()=>{
     console.log("prepare coffee!!")
